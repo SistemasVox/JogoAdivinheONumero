@@ -1,4 +1,4 @@
-package com.example.marcelo.jogoadivinheonumero;
+package com.sistemasvox.marcelo.jogoadivinheonumero;
 
 import org.junit.Test;
 
