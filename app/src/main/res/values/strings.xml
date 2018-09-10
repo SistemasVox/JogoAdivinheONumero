@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SistemasVOX Adivinhe o Número!</string>
+    <string name="resposta1">Parabéns Acertou!</string>
+    <string name="texto2">Tente um número menor</string>
+    <string name="texto3">Tente um número maior</string>
+    <string name="txtBotao">Verificar</string>
+    <string name="txtTitulo">Adivinhe o número</string>
+    <string name="txtLogo">Bem Vindo ao Sistema VOX!</string>
+    <string name="digite_um_numero">Digite um numero</string>
+    <string name="txtInfo">Dica: Use busca binária para ter melhor eficiência.</string>
+
+</resources>
